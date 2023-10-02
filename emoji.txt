@@ -1,0 +1,12 @@
+emoji_dict = {
+    "Happy": "😊",
+    "Sad": "😢",
+    "Angry": "😠",
+    "Surprised": "😮",
+    "Neutral": "😐",
+    "Winking": "😉",
+    "Crying": "😭",
+    "Laughing": "😂",
+    "Confused": "😕",
+    "Love": "😍"
+}
